@@ -1,0 +1,42 @@
+# =========================
+# Runtime-generated files
+# =========================
+
+# Background image created at runtime
+image.jpg
+
+
+# =========================
+# Python cache
+# =========================
+
+__pycache__/
+*.py[cod]
+
+
+# =========================
+# Virtual environments
+# =========================
+
+.env
+.venv
+env/
+venv/
+
+
+# =========================
+# IDE files
+# =========================
+
+.idea/
+*.iml
+
+
+# =========================
+# OS-specific files
+# =========================
+
+
+# Windows
+Thumbs.db
+desktop.ini
